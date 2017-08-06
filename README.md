@@ -21,4 +21,6 @@ cd /tmp/test
 ls breeds/list
 ```
 
+![Alt text](/images/rest-fs.png?raw=true "Example Screenshot ls")
+
 The API I am using above for testing is [https://dog.ceo/dog-api/](https://dog.ceo/dog-api/).
